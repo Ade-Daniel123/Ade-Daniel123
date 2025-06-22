@@ -23,7 +23,7 @@
 ---
 
 ## 📌 Pinned Projects
-
+- https://github.com/LORDS-001/Simple-Calculator
 
 ---
 
