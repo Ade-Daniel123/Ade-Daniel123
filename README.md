@@ -47,7 +47,7 @@
 
 ## 📌 Pinned Projects
 - https://github.com/LORDS-001/Simple-Calculator
-- 
+- https://github.com/LORDS-001/University-Tutorial-UI-UX
 
 ---
 
